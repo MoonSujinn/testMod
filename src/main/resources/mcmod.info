@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "testmod",
+        "name": "Testmod",
+        "description": "모드 연습중",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["zamong"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
